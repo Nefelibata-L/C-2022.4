@@ -1,9 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+/*
 int main() {
 
-	//操作符 加减乘除取模 +-*/%
+	//操作符 加减乘除取模 + - * / %
 	int a = 1 + 2 - 3 * 4 / 5 % 6;
 	printf("%d\n",a);
 
@@ -34,6 +34,5 @@ int main() {
 	//以二进制取反，以补码的形式存储在内存中
 	//补码：负整数符号不变取反+1
 
-	
-
 }
+*/
