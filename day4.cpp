@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>;
 
-
+/*
 //初识函数
 
 int Add(int x, int y) {
@@ -23,3 +23,4 @@ int main() {
 char ch[5] = { '1','2','3','4','5' };//初始化
 char ch2[7] = { '1','2','3' };//不完全初始化，未初始化部分默认为0
 
+*/
