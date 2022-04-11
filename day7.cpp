@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 /*
-int main() {
+main() {
 
 	//操作符 加减乘除取模 + - * / %
 	int a = 1 + 2 - 3 * 4 / 5 % 6;

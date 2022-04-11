@@ -1,9 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>;
 
-/*
-//初识函数
 
+//初识函数
+/*
 int Add(int x, int y) {
 	int z = 0;
 	z = x + y;
