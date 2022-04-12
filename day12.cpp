@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+/*
 //初识结构体struct
 //设置结构体
 struct stu {
@@ -23,5 +23,8 @@ void main() {
 	printf("3:%s,%d,%lf\n", pstu->name,pstu->age,pstu->score);
 
 }
+*/
+
+//
 
 
