@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+/*
 void test() {
 	static int t = 0;
 	t++;
@@ -38,3 +38,4 @@ int main() {
 	printf("%d\n", testz);
 	printf("%d\n", sizeof(int*));//指针的大小与平台有关
 }
+*/
