@@ -71,7 +71,8 @@ void main() {
 	}
 }
 */
-	
+
+/*
 //分支语句switch
 //根据输出值判断星期几
 void Week1() {
@@ -137,3 +138,4 @@ void Week2() {
 int main() {
 	Week2();
 }
+*/
