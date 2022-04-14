@@ -53,7 +53,7 @@ int main() {
 		}
 	}
 }*/
-
+/*
 int main() {
 	int i = 0;
 	int n = 0;
@@ -63,4 +63,4 @@ int main() {
 			}
 		}
 	}
-
+*/
