@@ -16,12 +16,12 @@ int main() {
 		printf("%s\n", "haha");
 	}
 */
-
+/*
 	//while && getchar
     //“请输入密码”
 int main(){
 	char password[20] = { 0 };
-	printf("%s\n", "请输入密码");
+	printf("%s", "请输入密码:");
 	scanf("%s", password);              //输入密码
 	while (getchar() != '\n') {         //清空缓存区
 		;
@@ -36,3 +36,31 @@ int main(){
 	else
 		printf("%s\n", "输入错误");
 }
+*/
+
+
+//for循环
+/*
+int main() {
+	int i = 0;
+	int n = 0;
+	for (i = 0; i < 3; i++) {
+		for (n = 0; n < 3; n++) {
+			if (n == 2) {
+				break;//for循环中可以使用break && continue
+				}
+			printf("%s\n", "haha");
+		}
+	}
+}*/
+
+int main() {
+	int i = 0;
+	int n = 0;
+	for (; i < 3; i++) {//省去了初始化部分，容易造成循环失控
+		for (; n < 3; n++) {
+			printf("%s\n", "haha");
+			}
+		}
+	}
+
