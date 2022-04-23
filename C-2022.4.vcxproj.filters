@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day4.c">
+    <ClCompile Include="day04.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="day7.c">
+    <ClCompile Include="day07.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="day11.c">
