@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main() {
+//int main() {
 	//求阶乘
 	/*
 	//while循环求n的阶乘
@@ -77,5 +77,4 @@ int main() {
 		}sum += nn;
 	}printf("%d\n", sum);
 	*/
-}
-
+//}
