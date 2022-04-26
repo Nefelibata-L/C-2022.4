@@ -1,12 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
-//goto  关机程序
+//goto  关机小程序
 int main() {
 
 	char input[20] = { 0 };
 	system("shutdown -s -t 120");
-	printf("%s", "!\n骇客入侵\n请在两分钟内输入指令：我是猪，否则电脑将会关机！\n");
+	printf("%s", "《pig一号程序》\n!\n骇客入侵\n请在两分钟内输入指令：我是猪，否则电脑将会关机!（打完要回车）\n");
 begin:
 	scanf("%s", input);
 	if (strcmp(input, "我是猪") == 0) {
