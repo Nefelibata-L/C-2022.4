@@ -28,7 +28,7 @@ int main() {
 }
 */
 
-
+/*
 //二分查找
 int binary_search(int a[], int k, int s) {
 	int left = 0;
@@ -58,6 +58,6 @@ void main() {
 		printf("%s", "找不到");
 	}
 }
-
+*/
 
 
